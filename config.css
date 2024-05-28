@@ -1,4 +1,5 @@
 .body{
+    margin: auto;
     display: grid;
     grid-column: 1fr;
     grid-row: 5rem auto 5rem;
